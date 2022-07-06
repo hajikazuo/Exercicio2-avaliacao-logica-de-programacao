@@ -10,6 +10,7 @@ namespace Exercicio2_avaliacao_logica_de_programacao
     {
         static void Main(string[] args)
         {
+            //Nilton Kazuo Hasegawa Haji RA:6322507
             // Fazer um programa para que mostre uma lista de cidades para o usuário e que ele informe o código da cidade escolhida.
             // Em seguida pedir uma data para o usuário. Ao final deve ser apresentada em tela a data completa em formato extenso longo,
             // juntamente com a cidade escolhida. 
